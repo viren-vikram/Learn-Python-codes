@@ -1,0 +1,6 @@
+from sys import argv
+
+script, avar, bvar, cvar, dvar, evar = argv
+
+print( "this is how you print",(avar,bvar,cvar,dvar,evar))
+
